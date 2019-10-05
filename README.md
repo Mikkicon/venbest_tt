@@ -1,15 +1,15 @@
 ## Install dependencies
 
-> npm i
+`npm i`
 
 ## Start sever and client in one terminal (deprecated)
 
-> npm start
+`npm start`
 
 ## In separate terminals launch client and server:
 
-> node server/index.js
+`node server/index.js`
 
 In another one:
 
-> node client/index.js
+`node client/index.js`
